@@ -1,6 +1,6 @@
 {
   "name": "capkpi-gantt",
-  "version": "0.6.1",
+  "version": "0.6.0",
   "description": "A simple, modern, interactive gantt library for the web",
   "main": "src/index.js",
   "scripts": {
